@@ -1,0 +1,11 @@
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Domain\bin\Debug\net8.0\ProdutosAPI.Domain.deps.json
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Domain\bin\Debug\net8.0\ProdutosAPI.Domain.dll
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Domain\bin\Debug\net8.0\ProdutosAPI.Domain.pdb
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Domain\obj\Debug\net8.0\ProdutosAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Domain\obj\Debug\net8.0\ProdutosAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Domain\obj\Debug\net8.0\ProdutosAPI.Domain.AssemblyInfo.cs
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Domain\obj\Debug\net8.0\ProdutosAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Domain\obj\Debug\net8.0\ProdutosAPI.Domain.dll
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Domain\obj\Debug\net8.0\refint\ProdutosAPI.Domain.dll
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Domain\obj\Debug\net8.0\ProdutosAPI.Domain.pdb
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Domain\obj\Debug\net8.0\ref\ProdutosAPI.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Application\obj\Debug\net8.0\ProdutosAPI.Application.csproj.AssemblyReference.cache
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Application\obj\Debug\net8.0\ProdutosAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Application\obj\Debug\net8.0\ProdutosAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Application\obj\Debug\net8.0\ProdutosAPI.Application.AssemblyInfo.cs
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Application\obj\Debug\net8.0\ProdutosAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Application\bin\Debug\net8.0\ProdutosAPI.Application.deps.json
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Application\bin\Debug\net8.0\ProdutosAPI.Application.dll
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Application\bin\Debug\net8.0\ProdutosAPI.Application.pdb
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Application\bin\Debug\net8.0\ProdutosAPI.Domain.dll
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Application\bin\Debug\net8.0\ProdutosAPI.Domain.pdb
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Application\obj\Debug\net8.0\Produtos.75EF6489.Up2Date
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Application\obj\Debug\net8.0\ProdutosAPI.Application.dll
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Application\obj\Debug\net8.0\refint\ProdutosAPI.Application.dll
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Application\obj\Debug\net8.0\ProdutosAPI.Application.pdb
+C:\Users\Alaor\source\repos\ProdutosAPI\ProdutosAPI.Application\obj\Debug\net8.0\ref\ProdutosAPI.Application.dll
